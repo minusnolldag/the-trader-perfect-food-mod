@@ -1,0 +1,5 @@
+{
+	"namespace": "the_trader_perfect_food_mod",
+	"icon": "assets/icon.svg",
+	"setup": "scripts/setup.mjs"
+}
